@@ -1,0 +1,10 @@
+s='abcdefghijklmno'
+print(s)
+print(s[0])
+print(s[3])
+print(s[0:4])
+print(s[2:5])
+print(s[4:7])
+print(s[4:7])
+print(s[:3])
+print(s[4:])
